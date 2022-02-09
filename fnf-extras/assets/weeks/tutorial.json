@@ -1,0 +1,71 @@
+{
+	"storyName": "",
+	"difficulties": "OG, Rechart",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Diplopia",
+			"bf",
+			[
+				0,
+				140,
+				237
+			]
+		],
+		[
+			"Holiday Classic",
+			"gf",
+			[
+				215,
+				40,
+				133
+			]
+		],
+		[
+			"No Villains",
+			"sonic",
+			[
+				0,
+				100,
+				255
+			]
+		],
+		[
+			"Ugh",
+			"tankman",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Shiver",
+			"spooky",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Boogie",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		]
+	],
+	"weekName": "ggggguh"
+}
